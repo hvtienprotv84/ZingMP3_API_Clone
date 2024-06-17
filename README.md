@@ -1,4 +1,13 @@
-<h1 align= center><b>♬⭐️ Zing Mp3 Clone ⭐️♬</b></h1>
+<h1 align= center><b>♬⭐️ Zing MP3 - API - Clone ⭐️♬</b></h1>
+
+# Zing MP3
+
+- ReactJS
+- Redux
+- SASS
+- React Router
+- API
+- Responsive
 
 ## Main Technology
 
